@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  genus: MyString
+  description: MyString
+  year: 2020-01-15 14:59:38
+  value: 1.5
+  batteries: false
+  battery_size: MyString
+  battery_quantity: MyString
+  location: MyString
+  image: MyString
+  character: one
+
+two:
+  genus: MyString
+  description: MyString
+  year: 2020-01-15 14:59:38
+  value: 1.5
+  batteries: false
+  battery_size: MyString
+  battery_quantity: MyString
+  location: MyString
+  image: MyString
+  character: two
