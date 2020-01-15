@@ -10,8 +10,8 @@ import { Container, } from '@material-ui/core';
 
 const App = () => (
   <>
+  <Sidenav />
     <FetchUser>
-        <Sidenav />
       <Container>
         <Switch>
           <Route exact path='/' component={Home} />
